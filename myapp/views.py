@@ -1,7 +1,7 @@
 from django.shortcuts import render,redirect
 from .models import registerdata
 from django.http import HttpResponse
-from django.contrib import messages
+from django.contrib import messagess
 
 # Create your views here.
 
